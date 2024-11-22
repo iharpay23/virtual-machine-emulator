@@ -1,4 +1,4 @@
-# README: Universal Machine Emulator
+# README: Virtual/Universal Machine Emulator (with Dynamic Memory Segmentation)
 
 Date: 10/24/23
 
